@@ -4,8 +4,7 @@
 
 ## Author
 
-Trapti Damodar Balgi, Nidhi Choudhary
-(Group 14)
+Nidhi Choudhary, Trapti Damodar Balgi
 
 ---
 
